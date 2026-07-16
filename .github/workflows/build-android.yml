@@ -1,7 +1,5 @@
 name: Build Android APK
 
-# Runs automatically every time you push code to the "main" branch.
-# You can also trigger it manually from the GitHub Actions tab (workflow_dispatch).
 on:
   push:
     branches: [main]
